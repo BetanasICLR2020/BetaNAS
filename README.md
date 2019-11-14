@@ -1,4 +1,8 @@
 # BetaNAS
 Materials for BetaNAS
 
-![BetaNAS-A acc75.1](Betanas-A depth mult1.0 flop315M acc75.1.pdf)
+![betanasA_79.0](figures/betanasA_79.0.png)
+
+![betanasA_77.1](figures/betanasA_77.1.png)
+
+![betanasA_75.1](figures/betanasA_75.1.png)
