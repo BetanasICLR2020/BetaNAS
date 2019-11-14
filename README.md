@@ -1,7 +1,7 @@
 # BetaNAS
 Materials for BetaNAS
 
-![betanasA_79.0](figures/betanasA_79.0.png)
+![betanasA_79.0](figures/batanasA_79.0.png)
 
 ![betanasA_77.1](figures/betanasA_77.1.png)
 
